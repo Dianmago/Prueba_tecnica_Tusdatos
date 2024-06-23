@@ -99,6 +99,6 @@ Por qué **NO** un solo scripts para el DEMANDADO Y DEMANDANTE fue para mostrar 
 
 Para esto hice un **video explicativo** donde hago una prueba con dos CC y el porqué de cómo están implementados los Scripts. 
 
-Link video:
+Link video: https://drive.google.com/file/d/1Ody3SYiqZxL9zKh4vOTXiMqc4hE9KMhz/view?usp=sharing 
 
 Espero que les guste lo que hice, **¡Gracias por su tiempo!**
